@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author matheusb
- *
- */
-module sintaxeBasica {
-}
